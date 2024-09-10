@@ -1,0 +1,42 @@
+Nível Básico
+Página de Perfil Pessoal:
+
+Descrição: Crie uma página web simples para exibir informações sobre você, incluindo uma foto, uma breve biografia, e links para redes sociais.
+Objetivos: Praticar HTML e CSS para estrutura e estilo; usar JavaScript para adicionar uma funcionalidade interativa, como uma galeria de imagens que muda ao clicar em miniaturas.
+Lista de Tarefas (To-Do List):
+
+Descrição: Desenvolva uma aplicação simples onde você pode adicionar, remover e marcar tarefas como concluídas.
+Objetivos: Aprender a manipular o DOM com JavaScript, armazenar dados localmente (usando localStorage), e estilizar a aplicação com CSS.
+Relógio Digital:
+
+Descrição: Crie um relógio digital que exibe a hora atual em tempo real.
+Objetivos: Utilizar JavaScript para obter e atualizar a hora atual e usar CSS para estilizar o relógio.
+
+Nível Médio
+Jogo da Velha (Tic-Tac-Toe):
+
+Descrição: Desenvolva um jogo da velha com interface gráfica, onde dois jogadores podem jogar um contra o outro.
+Objetivos: Aplicar lógica de programação para o jogo, manipulação de eventos e atualização dinâmica da interface com JavaScript. Use CSS para criar uma interface atraente.
+Formulário de Contato com Validação:
+
+Descrição: Crie um formulário de contato com campos como nome, e-mail e mensagem, e implemente validação de dados.
+Objetivos: Usar HTML para criar o formulário, CSS para estilizar e JavaScript para validar os dados do formulário antes de enviá-lo.
+Conversor de Unidades:
+
+Descrição: Desenvolva uma ferramenta para converter entre diferentes unidades de medida (por exemplo, temperatura, comprimento, massa).
+Objetivos: Praticar manipulação de entradas e saídas com JavaScript, e estilizar a interface com CSS para tornar a aplicação mais amigável.
+
+Nível Avançado
+Aplicativo de Clima com API:
+
+Descrição: Crie um aplicativo que exibe a previsão do tempo para diferentes cidades usando uma API de clima.
+Objetivos: Integrar uma API externa com JavaScript para obter e mostrar dados dinâmicos, e usar CSS para criar uma interface atraente e responsiva.
+Aplicativo de Notas com Persistência:
+
+Descrição: Desenvolva um aplicativo de notas onde você pode criar, editar e excluir notas, e as notas são armazenadas localmente no navegador.
+Objetivos: Usar JavaScript para manipular notas e localStorage para persistir os dados. Implementar uma interface de usuário sofisticada com CSS.
+Jogo de Quiz Interativo:
+
+Descrição: Crie um jogo de quiz com várias perguntas e opções de resposta. O usuário deve receber feedback sobre suas respostas e um resultado final.
+Objetivos: Implementar lógica de jogo com JavaScript, usar HTML para estruturar o quiz e CSS para criar uma experiência de usuário envolvente.
+Esses projetos vão ajudar a solidificar seu conhecimento em HTML, CSS e JavaScript, e podem ser expandido conforme você ganha mais experiência. Boa sorte e divirta-se codificando!
